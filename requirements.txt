@@ -1,0 +1,17 @@
+langchain
+openai
+dotenv
+docarray
+faiss-cpu
+tabulate
+
+# pandas
+# numpy
+# seaborn
+# matplotlib
+# scikit-learn
+# catboost
+# xgboost
+# Flask
+
+#-e .

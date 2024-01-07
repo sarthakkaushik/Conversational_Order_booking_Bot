@@ -5,7 +5,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
 
-project_name = "IOCL_BU_Python_Scripts"
+project_name = "Conversational_Order_booking"
 
 list_of_files = [
     ".github/workflows/.gitkeep",
